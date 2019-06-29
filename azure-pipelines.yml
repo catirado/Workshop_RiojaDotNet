@@ -8,3 +8,4 @@ before_build:
 build:
   project: Ejemplo NetCore.sln
   verbosity: minimal
+
